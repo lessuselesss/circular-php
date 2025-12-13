@@ -8,7 +8,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "CircularProtocol\\Api\\": "lib/"
+            "CircularProtocol\\Api\\": "src/"
         }
     },
     "authors": [
@@ -17,8 +17,8 @@
             "email": "dannydenovi29@gmail.com"
         },
         {
-          "name": "Eric D. Wade",
-          "email": "nandesu@gmail.com"
+            "name": "Eric D. Wade",
+            "email": "nandesu@gmail.com"
         }
     ]
 }

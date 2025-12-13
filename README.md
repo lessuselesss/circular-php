@@ -26,7 +26,7 @@ composer require simplito/elliptic-php
 
 ## Docs
 
-Read the docs on [GitBook](https://circular-protocol.gitbook.io/circular-sdk/api-docs/php)
+Find more on [GitBook](https://circular-protocol.gitbook.io/standard-apis)
 
 ## CAVEATS
 
@@ -37,7 +37,7 @@ Read the docs on [GitBook](https://circular-protocol.gitbook.io/circular-sdk/api
 
 ## Useful Links
 
-- [Documentation](https://circular-protocol.gitbook.io/circular-sdk/api-docs/php)
+- [Documentation](https://circular-protocol.gitbook.io/standard-apis)
 - [Packagist Repository](https://packagist.org/packages/circular-protocol/circular-protocol-api)
 - [GitHub](https://github.com/circular-protocol/circular-php)
 
